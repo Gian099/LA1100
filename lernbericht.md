@@ -13,12 +13,19 @@ Ich habe gelernt ein geschaltetes Mototrrad zu fahren.
 Bei einer Garage meines Onkels, bin ich mit ihm Mototrrad gefahren. Ich bin hauptsächlich das kleinere grüne "Töffli" gefahren. 
 Denn wir hatten nicht wirklich viel Zeit und das grössere Motorrad war schwieriger zu fahren.
 
+![20220719_115133](https://user-images.githubusercontent.com/111044245/185336084-f5900564-98b5-4f15-9146-85fd912307ec.jpg)
+![20220719_115136](https://user-images.githubusercontent.com/111044245/185336203-92bc94b8-a071-4224-ab04-1026ca7fd96c.jpg)
 
+https://user-images.githubusercontent.com/111044245/185336650-c599e947-f719-49a6-9f93-c45d87b627c7.mp4
 
+## Verifikation
 Diese Bilder zeigen die 2 Motorräder die ich gefahren bin.
 Der Mann auf dem Video ist mein Onkel, von mir habe ich leider kein Video.
 
-Das Schalten auf dem Mototrrad habe ich als recht schweierig epmfunden, auch wenn ich natürlich nicht in die hohen Gänge gschalten bin.
+# Reflektion zum Arbeitsprozess
+Das fahren an sich lief aber sehr gut. Ich hatte ausser dem schalten keine Probleme das Motorrad zu lenken.
 
+Das Schalten auf dem Mototrrad habe ich als recht schweierig epmfunden, auch wenn ich natürlich nicht in die hohen Gänge gschalten habe.
 
-Nächstes mal würde ich
+**VBV**:
+Nächstes mal würde ich vielleicht schauen dass ich mich noch mehr auf das schalte konzentriere. Mottorrad fahren braucht Übung, weswegen ich das nächste mal wieder fahren sollte und auch länger als das letzte mal.
