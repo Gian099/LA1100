@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gian-Marco Mileti
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,13 +12,13 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    muss         |  Funktional | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |    muss         |  Funktional |  |
 | 2    |    muss         |  Funktional | ALs Schlossbauer möchte ich dass der Spieler eine Zufallszahl zwischen 1 und 100 raten kann, damit die Auswahl nicht allzu gross ist.
 | 3    |    muss         |  Funktional | Als Spieler möchte ich eine Anzeige dafür ob die Zahl höher oder kleiner ist, damit ich die Zahl schneller erate.
 | 4    |    muss         |  Funktional | Als Spieler möchte ich wissen wann die Geheimzahl erraten wurde, damit ich weiss wann ich eine neue Zahl raten muss.
@@ -33,21 +31,22 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |    geheimzahl testen zwischen 1-100          |    5     |    das ist eine geheimzahl               |
-| 1.2  |    random zahl erraten         |    76     |     richtig oder falsch              |
+| 1.1  | geheimzahl testen zwischen 1-100| 5| das ist eine geheimzahl|
+| 1.2  | random zahl erraten| 76| richtig oder falsch|
+| 1.3  | 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | bis 01.09| Gian-Marco| speichert Zufallszahl zwischen 1-100| 2x 45min |
-| 1.B  | bis 07.09| Gian-Marco| Anzeige ob Zahl höher oder kleiner ist|    60min  |
+| 1.A  | bis 01.09| Gian-Marco| speichert Zufallszahl zwischen 1-100| 45min |
+| 1.B  | bis 07.09| Gian-Marco| Anzeige ob Zahl höher oder kleiner ist| 60min|
 | 1.C  | bis 09.09| Gian-Marco| Anzeige wenn Zahl richtig geraten wurde|   45min    |
 | 1.D  | bis 11.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat|  50min      |
 | 1.E  | bis 15.09| Gian-Marco| Programm muss Fehler umgehen|  3x 45min |
