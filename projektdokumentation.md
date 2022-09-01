@@ -4,9 +4,9 @@ Gian-Marco Mileti
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 24.08 | 0.0.1   | Angefangen mit Projekt                                       |
+| 01.09 |         |                                                              |
+|       |         |                                                              |
 
 ## 1 Informieren
 
@@ -18,12 +18,11 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    muss         |  Funktional |  |
-| 2    |    muss         |  Funktional | ALs Schlossbauer möchte ich dass der Spieler eine Zufallszahl zwischen 1 und 100 raten kann, damit die Auswahl nicht allzu gross ist.
-| 3    |    muss         |  Funktional | Als Spieler möchte ich eine Anzeige dafür ob die Zahl höher oder kleiner ist, damit ich die Zahl schneller erate.
-| 4    |    muss         |  Funktional | Als Spieler möchte ich wissen wann die Geheimzahl erraten wurde, damit ich weiss wann ich eine neue Zahl raten muss.
-| 5    |    muss         |  Funktional | Als Spieler möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich weiss wie gut ich geraten habe.
-| 6    |    muss         |  Funktional | Als Spieler möchte ich dass das Program mit Fehlereingaben umgehen kann, damit das Spiel richtig läuft.
+| 1    |    muss         |  Funktional | Als Spieler möchte ich dass der Spieler eine Zufallszahl zwischen 1 und 100 raten kann, damit die Auswahl nicht allzu gross ist.
+| 2    |    muss         |  Funktional | Als Spieler möchte ich eine Anzeige dafür ob die Zahl höher oder kleiner ist, damit ich die Zahl schneller erate.
+| 3    |    muss         |  Funktional | Als Spieler möchte ich wissen wann die Geheimzahl erraten wurde, damit ich weiss wann ich eine neue Zahl raten muss.
+| 4    |    muss         |  Funktional | Als Spieler möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich weiss wie gut ich geraten habe.
+| 5    |    muss         |  Funktional | Als Spieler möchte ich dass das Program mit Fehlereingaben umgehen kann, damit das Spiel richtig läuft.
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -46,10 +45,10 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | bis 01.09| Gian-Marco| speichert Zufallszahl zwischen 1-100| 45min |
-| 1.B  | bis 07.09| Gian-Marco| Anzeige ob Zahl höher oder kleiner ist| 60min|
-| 1.C  | bis 09.09| Gian-Marco| Anzeige wenn Zahl richtig geraten wurde|   45min    |
-| 1.D  | bis 11.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat|  50min      |
-| 1.E  | bis 15.09| Gian-Marco| Programm muss Fehler umgehen|  3x 45min |
+| 1.B  | bis 01.09| Gian-Marco| Anzeige ob Zahl höher oder kleiner ist| 60min|
+| 1.C  | bis 01.09| Gian-Marco| Anzeige wenn Zahl richtig geraten wurde|   45min    |
+| 4.A  | bis 08.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat|  50min      |
+| 1.E  | bis 08.09| Gian-Marco| Programm muss Fehler umgehen|  3x 45min |
 
 Total: 
 
@@ -65,10 +64,11 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.1  | 01.09 | Gian-Marco|    45min      |      15min        |
+| 2.1  | 01.09 | Gian-Marco|    60min      |      45min        |
+| 3.1  | 01.09 | Gian-Marco|    45min      |      30min        |
+| 4.1  | 01.09 | Gian-Marco|    50min      |      60min        |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
