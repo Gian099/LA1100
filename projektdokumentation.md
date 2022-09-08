@@ -68,7 +68,7 @@ Total:
 | 2.1  | 01.09 | Gian-Marco|    60min      |      45min        |
 | 3.1  | 01.09 | Gian-Marco|    45min      |      30min        |
 | 4.1  | 08.09 | Gian-Marco|    50min      |      45min        |
-|   | 
+| 5.1 |   | Gian-Marco|        |       
 
 
 ## 5 Kontrollieren
