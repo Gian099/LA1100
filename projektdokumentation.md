@@ -26,6 +26,7 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 | 6    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf die
 Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine besser Visualisierung habe.|
 | 7    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Peogramm einen Timer ausgibt, damit ich weiss wie lange ich als Spieler gebraucht habe.
+| 8    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Programm einen Titel hat, damit ich sofort sehe um was für ein Programm es sich handelt.
 
 ### 1.3 Testfälle
 
@@ -52,7 +53,7 @@ Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine 
 | 3.A  | bis 01.09| Gian-Marco| Anzeige wenn Zahl richtig geraten wurde|   45min    |
 | 4.A  | bis 08.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat |  50min      |
 | 5.A  | bis 15.09| Gian-Marco| Programm muss Fehler umgehen |  3x 45min |
-| 6.A  | bis 15.09| Gian-Marco| Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf wie ich geraten habe anspasst.|
+| 6.A  | bis 15.09| Gian-Marco| Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf wie ich geraten habe anspasst.| 45min |
 
 Total: 
 
@@ -70,6 +71,8 @@ Total:
 | 4.1  | 08.09 | Gian-Marco|    50min      |      45min        |
 | 5.1  |       | Gian-Marco|               |                   |
 | 6.1  | 15.09 | Gian-Marco|    45min      |      45min        |
+| 7.1  |       | Gian-Marco|               |                   |
+| 8.1  | 15.09 | Gian-Marco|    30min      |      15min        |
 
 
 ## 5 Kontrollieren
