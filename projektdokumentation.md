@@ -24,7 +24,8 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 | 4    |    muss         |  Funktional | Als Spieler möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich weiss wie gut ich geraten habe. |
 | 5    |    muss         |  Funktional | Als Spieler möchte ich, dass das Programm mit Fehlereingaben umgehen kann, damit das Spiel richtig läuft.|
 | 6    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf die
-Genauigkeit auf die ich geraten habe anspasst.|
+Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine besser Visualisierung habe.|
+| 7    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Peogramm einen Timer ausgibt, damit ich weiss wie lange ich als Spieler gebraucht habe.
 
 ### 1.3 Testfälle
 
@@ -35,7 +36,7 @@ Genauigkeit auf die ich geraten habe anspasst.|
 | 3.1  | geratene Zahl ist falsch | 45 | Programm gibt an ob Zahl richtig oder Falsch ist
 | 4.1  | Beim 3ten mal erraten | 7,10,11 | Programm gibt Versuche an
 | 5.1  | Spieler gibt Buchstabe ein | b | Programm sagt: gib eine Zahl ein
-| 6.1  |
+| 6.1  | 
 | 7.1  |
 
 ### 1.4 Diagramme
@@ -51,8 +52,7 @@ Genauigkeit auf die ich geraten habe anspasst.|
 | 3.A  | bis 01.09| Gian-Marco| Anzeige wenn Zahl richtig geraten wurde|   45min    |
 | 4.A  | bis 08.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat |  50min      |
 | 5.A  | bis 15.09| Gian-Marco| Programm muss Fehler umgehen |  3x 45min |
-| 6.A  | bis 15.09| Gian-Marco| Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf die Genauigkeit auf die ich geraten habe anspasst.
-|
+| 6.A  | bis 15.09| Gian-Marco| Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf wie ich geraten habe anspasst.|
 
 Total: 
 
@@ -68,7 +68,8 @@ Total:
 | 2.1  | 01.09 | Gian-Marco|    60min      |      45min        |
 | 3.1  | 01.09 | Gian-Marco|    45min      |      30min        |
 | 4.1  | 08.09 | Gian-Marco|    50min      |      45min        |
-| 5.1 |   | Gian-Marco|        |       
+| 5.1  |       | Gian-Marco|               |                   |
+| 6.1  | 15.09 | Gian-Marco|    45min      |      45min        |
 
 
 ## 5 Kontrollieren
