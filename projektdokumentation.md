@@ -16,7 +16,7 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit |  Typ        | Beschreibung                       |
+| US-№ | Verbindlichkeit |  Typ        | Beschreibung  |  
 | ---- | -----           | ---------   | ------------- |
 | 1    |    muss         |  Funktional | Als Spieler möchte ich dass der Spieler eine Zufallszahl zwischen 1 und 100 raten kann, damit die Auswahl nicht allzu gross ist.|
 | 2    |    muss         |  Funktional | Als Spieler möchte ich eine Anzeige dafür ob die Zahl höher oder kleiner ist, damit ich die Zahl schneller erate. |
@@ -27,6 +27,7 @@ Ich bin gerade dabei, ein "Number guessing game" zu programmieren.
 Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine besser Visualisierung habe.|
 | 7    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Peogramm einen Timer ausgibt, damit ich weiss wie lange ich als Spieler gebraucht habe.
 | 8    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Programm einen Titel hat, damit ich sofort sehe um was für ein Programm es sich handelt.
+| 9    |    kann         |  Qualität   | Als Spieler möchte ich, dass das Programm eine Wiederholfunktion hat, damit ich das Programm nicht immer neustarten muss, wenn ich noch einal spielen will.
 
 ### 1.3 Testfälle
 
@@ -37,7 +38,7 @@ Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine 
 | 3.1  | geratene Zahl ist falsch | 45 | Programm gibt an ob Zahl richtig oder Falsch ist
 | 4.1  | Beim 3ten mal erraten | 7,10,11 | Programm gibt Versuche an
 | 5.1  | Spieler gibt Buchstabe ein | b | Programm sagt: gib eine Zahl ein
-| 6.1  | 
+| 6.1  | Spieler gibt die richtige Zahl ein | 187 | Programm gibt grüne Farbe aus |
 | 7.1  |
 
 ### 1.4 Diagramme
