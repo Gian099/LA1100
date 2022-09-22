@@ -104,4 +104,4 @@ Ich konnte alles, ausser den Timer gut ausführen.
 
 ## 6 Auswerten
 
-
+https://github.com/Gian099/good-craic/blob/main/Lernbericht%20Gian-Marco%20LA1100.md
