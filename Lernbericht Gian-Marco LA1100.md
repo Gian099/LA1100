@@ -11,9 +11,9 @@ In diesem Projekt habe ich gelernt wie und wo man eine Try/Catch Schleife verwen
 
 ## Beschreibung
 
-In diesem Projekt haben wir ein Random Number Guessing game programmiert. Dabei mussten wir eine Try/Catch Schleife miteinbauen, um Fehlereingaben zu verhindern.
-Diese Schleife gibt einem die Möglichkeit, falls der User eine Eingabe, welche nicht mit dem Code Kompatibel ist, eingibt, einen Programmabsturz zu umgehen.
-So bekommt der User die Information, dass seine Eingabe nicht (in diesem Fall einer geraden Zahl) der Vorgabe entspricht. Entweder stoppt das Programm oder der User wird nach einer Eingabe gefragt.
+In diesem Projekt habe ich ein Random Number Guessing game programmiert. Dabei habe ich eine Try/Catch Schleife miteingebaut, um Fehlereingaben zu verhindern.
+Diese Schleife gibt einem die Möglichkeit, wenn der User eine Eingabe, welche nicht mit dem Code Kompatibel ist, eingibt, einen Programmabsturz zu umgehen, indem es einen, vom Programmierer geschrieben, Text anzeigt.
+Dem User wird in der Konsole angezeigt, dass seine Eingabe nicht (in diesem Fall einer geraden Zahl) der Vorgabe entspricht. Entweder stoppt das Programm abrupt oder der User wird nach einer gefragten Eingabe gefragt.
 
 
 Ein Beispiel dazu.
@@ -50,7 +50,7 @@ Wenn die Eingabe falsch ist, wird "Ungültige Eingabe" ausgegebn und das Program
 ## Verifikation
 
 In dem Code-Fetzen sieht man wie eine einfache Try/Catch Schleife aufgebaut ist. 
-Die beiden Printscreens zeigen, wie die beiden Ausgaben aussehen oder wie das Programm nicht abstürzt. Das Programm fängt sich auf.
+Die beiden Printscreens zeigen, wie die beiden Ausgaben aussehen oder wie das Programm eben nicht abstürzt. Das Programm fängt sich auf.
 
 # Reflektion zum Arbeitsprozess
 
