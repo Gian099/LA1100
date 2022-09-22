@@ -7,6 +7,9 @@ Gian-Marco Mileti
 | 24.08 | 0.0.1   | Angefangen mit Projekt                                       |
 | 01.09 | 0.0.2   | Basis des Spiels steht                                       |
 | 08.09 | 0.0.3   | Programm zählt jetzt Versuche                                |
+| 15.09 | 0.0.4   | Programm erkennt jetzt Fehler                                |
+| 15.09 | 0.0.5   | Programm ändert jetzt die FArbe des Texts (falsch oder richtig geraten)|
+| 22.09 | 1.0.0   | Prgramm ist fertig                                           |
 
 ## 1 Informieren
 
@@ -39,7 +42,9 @@ Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine 
 | 4.1  | Beim 3ten mal erraten | 7,10,11 | Programm gibt Versuche an
 | 5.1  | Spieler gibt Buchstabe ein | b | Programm sagt: gib eine Zahl ein
 | 6.1  | Spieler gibt die richtige Zahl ein | 187 | Programm gibt grüne Farbe aus |
-| 7.1  |
+| 7.1  | Spieler spielt das, Spiel| richtige Zahl wurde geraten| Prgramm zeigt Zeit an|
+| 8.1  | Visual Studio ist offen|Programm startet|Titel wird angezeigt|
+| 9.1  | Programm ist gestartet|Spieler ist fertig| Wiederholfunktion wird angezeigt|
 
 ### 1.4 Diagramme
 
@@ -55,12 +60,15 @@ Genauigkeit auf die ich geraten habe anspasst, damit ich als Spieler weiss eine 
 | 4.A  | bis 08.09| Gian-Marco| Anzeige für wie viele Versuche der Spieler gebraucht hat |  50min      |
 | 5.A  | bis 15.09| Gian-Marco| Programm muss Fehler umgehen |  3x 45min |
 | 6.A  | bis 15.09| Gian-Marco| Als Spieler möchte ich, dass das Programm eine Hintergrund-Farbe (Grün (richtig) oder Rot (falsch)) passend auf wie ich geraten habe anspasst.| 45min |
+| 7.A  | bis 15.09| Gian-Marco| Programm zeigt Timer an| 45min |
+| 8.A  | bis 15.09| Gian-Marco| Programm hat Titel | 30min|
+| 9.A  | bis 15.09| Gian-Marco| Programm zeigt Wiederholfunktion an| 60min |
 
 Total: 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entscheiden alle User-Stories, ausser den Timer, umzusetzten.
 
 ## 4 Realisieren
 
@@ -70,10 +78,11 @@ Total:
 | 2.1  | 01.09 | Gian-Marco|    60min      |      45min        |
 | 3.1  | 01.09 | Gian-Marco|    45min      |      30min        |
 | 4.1  | 08.09 | Gian-Marco|    50min      |      45min        |
-| 5.1  |       | Gian-Marco|               |                   |
-| 6.1  | 15.09 | Gian-Marco|    45min      |      45min        |
-| 7.1  |       | Gian-Marco|               |                   |
+| 5.1  | 15.09 | Gian-Marco|    3x45min    |      45min        |
+| 6.1  | 15.09 | Gian-Marco|    45min      |      60min        |
+| 7.1  | /     | /         |    /          |      /            |
 | 8.1  | 15.09 | Gian-Marco|    30min      |      15min        |
+| 9.1  | 15.09 | Gian-Marco|    60min      |      90min        |
 
 
 ## 5 Kontrollieren
@@ -82,19 +91,17 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |01.09|funktioniert|Gian-Marco|
+| 2.1  |01.09|funktioniert|Gian-Marco|
+| 3.1  |01.09|funktioniert|Gian-Marco|
+| 4.1  |08.09|funktioniert|Gian-Marco|
+| 5.1  |15.09|funktioniert|Gian-Marco|
+| 6.1  |15.09|funktioniert|Gian-Marco|
+| 7.1  |  /  |     /      |    /     |
+| 8.1  |15.09|funktioniert|Gian-Marco|
+| 9.1  |15.09|funktioniert|Gian-Marco|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
