@@ -1,5 +1,5 @@
 # Lern-Bericht
-Gian-Marco
+Gian-Marco Mileti
 
 ## Einleitung
 
@@ -16,7 +16,7 @@ Diese Schleife gibt einem die Möglichkeit, falls der User eine Eingabe, welche 
 So bekommt der User die Information, dass seine Eingabe nicht (in diesem Fall einer geraden Zahl) der Vorgabe entspricht. Entweder stoppt das Programm oder der User wird nach einer Eingabe gefragt.
 
 
-Ein kleines Beispiel dazu.
+Ein Beispiel dazu.
 
 ```csharp
         
@@ -54,12 +54,12 @@ Die beiden Printscreens zeigen, wie die beiden Ausgaben aussehen oder wie das Pr
 
 # Reflektion zum Arbeitsprozess
 
-#Was gut lief
+### Was gut lief
 
 Im Homeschooling habe ich viel konzentrierter gearbeitet als im Präsenzunterricht. Das Flair war Zuhause wesentlich angenehmer als im Unterricht, da ich nicht so oft bis garnicht abgelenkt wurde.
 
 
-#Was nicht gut lief
+### Was nicht gut lief
 
 Beim programmieren gab es öfters Momente an denen ich nicht wirklich vorankam. Ich wusste nicht, was ich als nächstes tun sollte oder wie ich etwas umsetzten soll.
 Da wir aber eine Projektdokumentation gemacht haben, konnte ich mich ein wenig besser organisieren. Aber auch nicht immer, sie half mir nur ein wenig.
